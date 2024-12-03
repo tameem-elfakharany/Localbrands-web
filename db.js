@@ -7,7 +7,7 @@ name TEXT NOT NULL,
 email TEXT UNIQUE NOT NULL,
 username TEXT NOT NULL,
 password TEXT NOT NULL,
-phone number INTEGER 
+phonenumber TEXT 
 )`;
 
 
